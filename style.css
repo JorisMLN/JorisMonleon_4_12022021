@@ -746,8 +746,21 @@ h4 {
     color: #364577!important;
     border-color: #364577!important;
 }
-
-
+.moduleLink{
+    padding-top: 30px;
+    height: 180px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+.moduleLink__partners{
+    height: 90%;
+    
+}
+.moduleLink__info{
+    height: 90%;
+}
 
 
 

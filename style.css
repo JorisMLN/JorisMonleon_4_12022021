@@ -802,7 +802,7 @@ h4 {
 
 @media (min-width: 768px) and (max-width: 991px) {
     .bg-banniere {
-        background-image: url("img/la-chouette-agence-banniere-mod991px.jpg");
+        background-image: url("img/la-chouette-agence-banniere-modV2.jpg");
     }
     
     .bg-presentation {
@@ -880,7 +880,7 @@ h4 {
 
 @media (max-width: 767px) {
     .bg-banniere {
-        background-image: url("img/la-chouette-agence-banniere-mod991px.jpg");
+        background-image: url("img/la-chouette-agence-banniere-modV2.jpg");
     }
     
     .bg-presentation {
@@ -894,6 +894,13 @@ h4 {
     .img-responsive{
         display: flex;
         align-self: center;
+    }
+    .social {
+        display: flex;
+        justify-content: space-around;
+        flex-direction: row;
+        max-width: 400px;
+        margin: auto auto auto auto;
     }
 
     .page-container {

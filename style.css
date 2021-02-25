@@ -417,7 +417,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 25px!important;
 }
 
 .icon-lg {
@@ -712,7 +712,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #8A675A;
 }
 
 .tc-white {
@@ -720,12 +720,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #8A675A;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #aa715c!important;
     color: #FFFFFF!important;
 }
 
@@ -751,7 +751,7 @@ h4 {
 }
 .moduleLink{
     padding-top: 30px;
-    height: 180px;
+    height: 250px;
     display: flex;
     justify-content: space-around;
     flex-direction: row;
@@ -764,7 +764,9 @@ h4 {
 .moduleLink__info{
     height: 90%;
 }
-
+li{
+    font-size: 20px;
+}
 /*  ressource image */
 
 .bg-banniere {
